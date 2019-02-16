@@ -12,14 +12,26 @@ module.exports = {
           {
             head: 'The University of Hong Kong',
             description: 'Bachelor of Engineering',
-            subhead: '2018-2022',
+            subhead: 'September 2018 - June 2022',
             image: 'HKULogo.png',
             action: 'none'
           }
         ]
       },
       {
-        tag: 'PROJECTS AND EXPERIENCE',
+        tag: 'WORKING EXPERIENCE',
+        content: [
+          {
+            head: 'BrainBuilder',
+            subhead: 'Teacher / Curriculum Writer (Nov 2016 - Aug 2018)',
+            description: 'I worked part-time for this supplemental education provider, BrainBuilder under the franchising ownership of Dr Fong. My role covered many aspects of the company, that include tailoring our Math program to suit the best interests of individual students, providing feedback to parents, etc.',
+            image: 'BrainBuilder-logo.png',
+            action: 'http://brainbuildermaths.com/'
+          }
+        ]
+      },
+      {
+        tag: 'PROJECTS AND OTHER EXPERIENCE',
         content: [
           {
             head: 'HeraKles',
@@ -27,7 +39,7 @@ module.exports = {
             description: 'The University of Hong Kong team for DJI Robomaster Robotics Competition 2018/19',
             image: 'HeraKles.jpg',
             action: 'https://hkurm.org/'
-          }
+          },
         ]
       },
       {
@@ -35,8 +47,8 @@ module.exports = {
         content: [
           {
             head: 'RC Tech',
-            subhead: 'Co-founder',
-            description: 'RC Tech (founder October 2018) is a student-led community in R.C. Lee Hall (The University of Hong Kong) that empowers innovation, and implementation of technology through multiple projects. The club holds workshops on topics ranging from web development, electronics and IoT hardware, to hydroponics. Club members also publish articles related to similar topics.',
+            subhead: 'Co-founder (October 2018 - Present)',
+            description: 'RC Tech is a student-led community in R.C. Lee Hall (The University of Hong Kong) that empowers innovation, and implementation of technology through multiple projects. The club holds workshops on topics ranging from web development, electronics and IoT hardware, to hydroponics. Club members also publish articles related to similar topics.',
             image: 'RcTech-logo.png',
             action: 'https://www.rctech.club/'
           }
