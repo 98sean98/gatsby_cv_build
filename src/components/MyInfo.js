@@ -37,7 +37,7 @@ query MyInfoQuery {
     site {
         siteMetadata {
             email
-            linkedIN
+            linkedIn
             github
         }
     }
@@ -72,7 +72,7 @@ class MyInfo extends Component {
                 <CardContent>
                     <Grid container spacing={0}>
                         {this.generateIconBox(data.site.siteMetadata.github, faGithub, '#333')}
-                        {this.generateIconBox(data.site.siteMetadata.linkedIN, faLinkedin, '#0077B5')}
+                        {this.generateIconBox(data.site.siteMetadata.linkedIn, faLinkedin, '#0077B5')}
                         {this.generateIconBox(data.site.siteMetadata.email, faAt, '#333')}
                     </Grid>
                 </CardContent>

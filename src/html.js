@@ -7,13 +7,13 @@ export default class HTML extends React.Component {
             <html {...this.props.htmlAttributes} lang={'en-US'}>
             <head>
                 <meta charSet="utf-8" />
-                <title>Utkarsh Goel</title>
+                <title>Sean Chok</title>
                 <meta httpEquiv="x-ua-compatible" content="ie=edge" />
                 <meta
                     name="viewport"
                     content="width=device-width, initial-scale=1, shrink-to-fit=no"
                 />
-                <meta name="description" content="Personal profile of Utkarsh Goel"/>
+                <meta name="description" content="Personal profile of Sean Chok"/>
                 <link rel="stylesheet"
                       href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
                       integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
