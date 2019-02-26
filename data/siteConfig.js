@@ -58,11 +58,18 @@ module.exports = {
         tag: 'ACHIEVEMENTS AND AWARDS',
         content: [
           {
-            head: 'BlockBank',
+            head: 'Tech Crunch Hackathon 2018, Hong Kong',
             subhead: '2nd Runner Up',
-            description: 'Tech Crunch Hackathon 2018, Hong Kong',
+            description: 'Developed BlockBank, a blockchain powered e-wallet for easy and secure bank transactions.',
             image: 'TechCrunch-Logo.png',
             action: 'none'
+          },
+          {
+            head: 'Global Legal Hackathon 2019, Hong Kong',
+            subhead: '1st Runner Up',
+            description: 'Developed CLAIMate, an app for petty claims featuring the court of public opinion.',
+            image: 'GLH2019-logo.png',
+            action: 'https://globallegalhackathon.com/'
           },
           {
             head: 'Student/Staff Project Fund',
