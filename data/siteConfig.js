@@ -72,6 +72,13 @@ module.exports = {
             action: 'https://globallegalhackathon.com/'
           },
           {
+            head: 'HKIMUNC 2019',
+            subhead: 'ECOFIN council - Outstanding Delegate',
+            description: "Delegated as the People's Republic of China, and discussed about the effects of protectionist policies on international trade.",
+            image: 'HKIMUNC_2019_logo.png',
+            action: 'http://www.hkumunc.org/'
+          },
+          {
             head: 'Student/Staff Project Fund',
             subhead: 'Project fund of HK$5000',
             description: 'Student/Staff Project fund by R.C. Lee Hall at The University of Hong Kong for RC Tech',
