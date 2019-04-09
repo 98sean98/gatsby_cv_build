@@ -36,9 +36,9 @@ module.exports = {
           {
             head: 'HeraKles',
             subhead: 'Mechanical Group Member - Drone Robot',
-            description: 'The University of Hong Kong team for DJI Robomaster Robotics Competition 2018/19',
+            description: 'The University of Hong Kong team for DJI Robomaster Robotics Competition 2018/19. I am in-charged of designing, building, and testing a drone robot.',
             image: 'HeraKles.jpg',
-            action: 'https://hkurm.org/'
+            action: 'none'
           },
         ]
       },
