@@ -34,11 +34,11 @@ module.exports = {
         tag: 'PROJECTS AND OTHER EXPERIENCE',
         content: [
           {
-            head: 'HeraKles',
+            head: 'Robomaster Team Herkules',
             subhead: 'Mechanical Group Member - Drone Robot',
             description: 'The University of Hong Kong team for DJI Robomaster Robotics Competition 2018/19. I am in-charged of designing, building, and testing a drone robot.',
-            image: 'HeraKles.jpg',
-            action: 'none'
+            image: 'Herkules.png',
+            action: 'http://innowing.hk/2019/01/11/robomaster2019/'
           },
         ]
       },
