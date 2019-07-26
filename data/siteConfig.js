@@ -1,6 +1,6 @@
 module.exports = {
   myName: 'Sean Chok',
-  description: 'Pursuing an undergraduate Bachelor Degree of Engineering at the University of Hong Kong, I look forward to working on making space travel as common as air travel.',
+  description: 'Pursuing an undergraduate Bachelor Degree of Engineering (Mechanical) at the University of Hong Kong, I look forward to working on making space travel as common as air travel.',
   email: 'mailto:seanchok@connect.hku.hk',
   linkedIn: 'https://www.linkedin.com/in/sean-chok-9035b2144/',
   github: 'https://github.com/98sean98',
@@ -14,7 +14,7 @@ module.exports = {
             description: 'Bachelor of Engineering',
             subhead: 'September 2018 - June 2022',
             image: 'HKULogo.png',
-            action: 'none'
+            action: 'https://hku.hk/'
           }
         ]
       },
@@ -27,6 +27,13 @@ module.exports = {
             description: 'I worked part-time for this supplemental education provider, BrainBuilder under the franchising ownership of Dr Fong. My role covered many aspects of the company, that include tailoring our Math program to suit the best interests of individual students, providing feedback to parents, etc.',
             image: 'BrainBuilder-logo.png',
             action: 'http://brainbuildermaths.com/'
+          },
+          {
+            head: 'iDTech Summer Camps',
+            subhead: 'Instructor (Summer 2019)',
+            description: 'My role is to teach children in STEM education during week-long summer camps; particularly, my class explores the world of Minecraft from a world builder\'s point of view. We also make sure that campers enjoy making friends, and having fun here in a safe environment.',
+            image: 'idtech-logo.png',
+            action: 'https://www.idtech.com/'
           }
         ]
       },
@@ -35,10 +42,10 @@ module.exports = {
         content: [
           {
             head: 'Robomaster Team Herkules',
-            subhead: 'Mechanical Group Member - Drone Robot',
-            description: 'The University of Hong Kong team for DJI Robomaster Robotics Competition 2018/19. I am in-charged of designing, building, and testing a drone robot.',
+            subhead: 'Mechanical Group Member - Drone & Hero Robots',
+            description: 'The University of Hong Kong team for DJI Robomaster Robotics Competition 2018/19. I am in-charged of designing, building, and testing 2 robots.',
             image: 'Herkules.png',
-            action: 'http://innowing.hk/2019/01/11/robomaster2019/'
+            action: 'http://innowing.hk/robomaster2019/'
           },
         ]
       },
