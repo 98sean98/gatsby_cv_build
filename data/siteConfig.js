@@ -4,6 +4,10 @@ module.exports = {
   email: 'mailto:seanchok@connect.hku.hk',
   linkedIn: 'https://www.linkedin.com/in/sean-chok-9035b2144/',
   github: 'https://github.com/98sean98',
+  credits: {
+    name: 'Utkarsh Goel',
+    url: 'https://github.com/utkarsh867',
+  },
   contents: {
     subsections: [
       {
@@ -88,7 +92,7 @@ module.exports = {
           {
             head: 'Student/Staff Project Fund',
             subhead: 'Project fund of HK$5000',
-            description: 'Student/Staff Project fund by R.C. Lee Hall at The University of Hong Kong for RC Tech',
+            description: 'Student/Staff Project fund by R.C. Lee Hall at The University of Hong Kong for RC Tech.',
             image: 'RcTech-logo.png',
             action: 'https://www.rctech.club/'
           }

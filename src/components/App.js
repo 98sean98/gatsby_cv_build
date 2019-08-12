@@ -3,6 +3,7 @@ import {CssBaseline, withStyles} from '@material-ui/core';
 import MyInfo from "./MyInfo";
 import NameCard from "./NameCard";
 import Education from "./Education";
+import Credits from "./Credits";
 
 const styles = {
     root: {
@@ -29,6 +30,9 @@ class App extends Component {
                             <NameCard/>
                             <Education />
                         </div>
+                    </div>
+                    <div>
+                      <Credits/>
                     </div>
                 </div>
             </React.Fragment>
