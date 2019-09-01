@@ -49,7 +49,7 @@ module.exports = {
             subhead: 'Mechanical Group Member - Drone & Hero Robots',
             description: 'The University of Hong Kong team for DJI Robomaster Robotics Competition 2018/19. I am in-charged of designing, building, and testing 2 robots.',
             image: 'Herkules.png',
-            action: 'http://innowing.hk/robomaster2019/'
+            action: 'http://innowing.hk/robomaster/'
           },
         ]
       },
