@@ -15,10 +15,10 @@ module.exports = {
         content: [
           {
             head: 'The University of Hong Kong',
-            description: 'Bachelor of Engineering',
+            description: 'Bachelor of Engineering (Mechanical)',
             subhead: 'September 2018 - June 2022',
             image: 'HKULogo.png',
-            action: 'https://hku.hk/'
+            action: 'http://me.hku.hk/'
           }
         ]
       },
