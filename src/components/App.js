@@ -7,7 +7,9 @@ import Credits from "./Credits";
 
 const styles = {
     root: {
-        padding: 50
+        padding: 50,
+        fontFamily: 'Roboto',
+        fontSize: 'calc(14px + 0.3vmax)'
     },
     infoBox: {
         marginBottom: '16px'

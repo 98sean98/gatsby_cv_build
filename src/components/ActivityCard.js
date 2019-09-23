@@ -29,7 +29,7 @@ const styles = {
     },
     content:{
         flexBasis: '100%',
-        flex: '5 0px',
+        flex: '2 2px',
         padding: '30px'
     },
     cardActionArea: {

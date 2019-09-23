@@ -16,7 +16,7 @@ const styles = {
     }
 };
 
-const iconSizes = '3x';
+const iconSizes = '2x';
 
 const IconBox = posed.div({
     hoverable: true,

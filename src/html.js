@@ -19,6 +19,7 @@ export default class HTML extends React.Component {
                       integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
                       crossOrigin="anonymous"/>
                 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+                <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet" />
                 {this.props.headComponents}
             </head>
             <body {...this.props.bodyAttributes}>
