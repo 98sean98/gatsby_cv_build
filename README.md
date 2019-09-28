@@ -1,5 +1,5 @@
 # My Personal Profile using Gatsby
-Visit the website [here](98sean98.github.io).
+Visit the website [here](https://98sean98.github.io).
 It's awesome.
 
 Credits to [Utkarsh Goel](https://github.com/utkarsh867) for designing the website, and letting me use it as well.
