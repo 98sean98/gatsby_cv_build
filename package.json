@@ -7,7 +7,7 @@
   "scripts": {
     "develop": "gatsby develop",
     "start": "npm run develop",
-    "build": "gatsby build && gh-pages -d public/",
+    "build": "gatsby build && gh-pages -d public/ https://github.com/98sean98/gatsby_cv_build.git -b gh-pages",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
